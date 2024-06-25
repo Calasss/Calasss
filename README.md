@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hola Mundo 👋
 
+- Mi nombre es Calass
+- Estudio en el Instituto Santo Tomás
+- Soy un estudiante de Ingeniería en Informática
+- Me encanta la programación!!!
 <!--
 **Calasss/Calasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
