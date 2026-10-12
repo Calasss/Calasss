@@ -3,7 +3,7 @@
 - Mi nombre es Calass
 - Estudio en el Instituto Santo Tomás
 - Soy un estudiante de Ingeniería en Informática
-- Me encanta la programación!!!
+- Me encanta el desarrollo de software y videojuegos!!!
 <!--
 **Calasss/Calasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
